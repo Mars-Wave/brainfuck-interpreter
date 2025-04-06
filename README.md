@@ -7,8 +7,8 @@ This project is a haskell parser (one-shot lexer) and interpreter for Brainfuck 
 > — [*Wikipedia: Brainfuck*](https://en.wikipedia.org/wiki/Brainfuck)
 
 ### Cool facts
-- Brainfuck is turing complete [*muppetlabs*] (https://www.muppetlabs.com/~breadbox/bf/)
-- Brainfuck has a very small compiler
+- Brainfuck is turing complete [*muppetlabs*](https://www.muppetlabs.com/~breadbox/bf)
+- Brainfuck has a very small compiler ( 296 bytes ).
 
 ## Instructions
 The eight commands in Brainfuck are:
